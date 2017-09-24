@@ -1,23 +1,23 @@
 ---
 layout: base
-title: HH
-permalink: /categories
 ---
 <div class="wrapper">
     <header>
-        {% if site.compass.logo %}
+        {% if site.compass.me %}
         <div class="logo-container">
-          <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
+          <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.me }}')"></a>
         </div>
         {% endif %}
 
         {% if site.compass.author %}
         <div class="author-container"><h1>{{ site.compass.author }}</h1></div>
         {% endif %}
+        
+	<div class="tagline-container"><p>
+	
 
-        {% if site.compass.tagline %}
-        <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
-        {% endif %}
+
+	</p></div>
     </header>
     <main>
       {% if site.compass.include_content %}
@@ -25,6 +25,5 @@ permalink: /categories
         {% include Person-content.html %}
       </div>
       {% endif %}
-    </main>
 </div>
 

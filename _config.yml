@@ -8,13 +8,16 @@ paginate_path: "/blog/page:num/"
 compass:
   # an avatar or logo (optional)
   logo: "/images/compass.png"
+  me: "/images/2017-March"
   # author will appear under the avatar (optional)
-  author: "2<font size=6><sup>nd</sup></font>Learn"
-  # tagline will appear under the title (optional)
+  author: "Hwoihann"  
+  title: "2<font siez=6><sup>nd</sup></font>Learn"  
+
+# tagline will appear under the title (optional)
   tagline: "<p>
 Daily life: <a href='https://hwoihann.github.io/rethink'>日常部</a><br>
 Research: <a href='https://hwoihann.github.io/farnorth'>修炼篇</a><br>
-<a href='https://.github.com/'>Wiki with Yoyo</a></p>"
+<a href='https://hwoihann.github.io/wiki'>Wiki with Yoyo</a></p>"
 
  # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
@@ -23,6 +26,15 @@ Research: <a href='https://hwoihann.github.io/farnorth'>修炼篇</a><br>
   # be added at the end of the <head> section. You can add your Google Analytics
   # Tracking Code to that file.
   include_analytics: false 
+  
+  ##2017-09-24 added personal information link
+  person_url: "abt"
+
+
+#Personal information
+github_username: Hwoihann
+
+
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
