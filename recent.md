@@ -12,7 +12,11 @@ layout: base
 
         <div class="author-container"><h1>Recent</h1></div>
         
-        <div class="tagline-container"><p> </p></div>
+        <div class="tagline-container"></div>
+
+<p style="font-family:serif;">
+</p>
+
     </header>
     <main>
       {% if site.compass.include_content %}

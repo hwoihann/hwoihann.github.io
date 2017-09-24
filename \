@@ -1,0 +1,28 @@
+<h2>About</h2>
+
+<div style="text-align: justify;line-height: 130%; word-spacing: 0.1em;">
+
+<p> 
+
+女汉子一枚，粗中有细，不善言谈，笑点诡异。幸时代开放、家庭自由放养，自认略不失个性。幼时受外祖父母照顾长于江南丘陵，溜猫逗狗，田间地里无所不能，深爱故乡。
+
+今旅居临安学习生活，平日做些科研生活，勉强能捣鼓些代码和数据。受应试教育之害至今未找到热爱并愿意为之付诸生命的事儿。喜爬西湖群山并于山尖食肉包；羽毛球和乒乓球初阶爱好者，欲重拾长跑爱好，多多参加马拉松。
+
+</p>
+<div>
+<hr />
+
+<ul class="fa-ul main-list">
+
+<li class="main-list-item">
+<span class="fa fa-fire fa-lg main-list-item-icon"></span>
+    <a href="{{ site.url }}"><font size=6>2</font><sup>nd</sup>Learn  </a>
+
+<span class="fa fa-user fa-lg main-list-item-icon"></span>
+    <a href="/abt/index.html">Huihan  </a>
+
+<span class="fa fa-tree fa-lg main-list-item-icon"></span>
+    <a href="/recent/index.html">Recent  </a>
+</li>
+
+</ul>
