@@ -10,4 +10,4 @@ Just be a life hacker, DIY any thing that I want in my life. As simple as possib
 Branchs of this blog mainly includes three parts of digested knowledge I get from: daily life, research life, and shared work with @22bear, my study mate.
  - Daily life 日常部: <https://hwoihann.github.io/rethink>
  - Research life 修炼篇: <https://hwoihann.github.io/farnorth/>
- - Sharing Wiki Together (will be ready at the end of October)
+ - Sharing Wiki Together: <https://hwoihann.github.io/wiki2gether/>
